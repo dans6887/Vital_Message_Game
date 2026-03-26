@@ -1,5 +1,5 @@
 # Vital_Message_Game
-A re-creation of the Vital Message game from Computer Battlegmaes by Usborne Computer Programs
+A re-creation of the Vital Message game from Computer Battlegames by Usborne Computer Programs
 
 
 In 1982 usborn Computer Programs published Computer Battlegames. Written by Daniel lsaaman and Jenny Tyler, the book was designed to teach programming for microcomputers such as the ZX81, ZX
